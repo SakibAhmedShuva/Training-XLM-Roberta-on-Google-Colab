@@ -11,6 +11,17 @@ To use this notebook:
 
 Note: This notebook requires a GPU runtime in Google Colab for optimal performance.
 
+1. Clone this repository:
+   ```
+   git clone https://github.com/SakibAhmedShuva/Training-XLM-Roberta-on-Google-Colab.git
+   cd SakibAhmedShuva/Training-XLM-Roberta-on-Google-Colab
+   ```
+
+2. Run the notebook:
+   ```
+   training_xlm_roberta_large.ipynb
+   ```
+   
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
