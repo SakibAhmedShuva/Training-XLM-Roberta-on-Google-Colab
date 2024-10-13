@@ -1,4 +1,4 @@
-# Training XLM-RoBERTa on Google Colab
+# Training XLM-RoBERTa with spaCy on Google Colab
 
 This repository contains a Jupyter notebook for training an XLM-RoBERTa model on Google Colab. The notebook demonstrates how to set up the environment, load necessary libraries, and train the model using spaCy.
 
@@ -13,8 +13,8 @@ Note: This notebook requires a GPU runtime in Google Colab for optimal performan
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SakibAhmedShuva/Training-XLM-Roberta-on-Google-Colab.git
-   cd SakibAhmedShuva/Training-XLM-Roberta-on-Google-Colab
+   git clone https://github.com/SakibAhmedShuva/Training-XLM-Roberta-with-spaCy-on-Google-Colab.git
+   cd Training-XLM-Roberta-with-spaCy-on-Google-Colab
    ```
 
 2. Run the notebook:
